@@ -1,0 +1,4 @@
+model,commonsense,factual,knowledge,language,reasoning,Average
+Qwen2.5-0.5B,0.958,0.945,0.963,0.992,0.628,0.897
+Qwen2.5-1.5B,1.031,0.905,1.06,0.965,0.876,0.967
+Qwen2.5-3B,1.046,0.865,0.964,0.973,0.645,0.899

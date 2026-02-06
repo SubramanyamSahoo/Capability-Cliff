@@ -1,0 +1,4 @@
+model,optimal_step,retention_at_optimal
+Qwen2.5-0.5B,133.33,1.02
+Qwen2.5-1.5B,66.67,1.03
+Qwen2.5-3B,0.0,1.0
